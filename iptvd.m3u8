@@ -1,7 +1,7 @@
-#EXTM3U
+#播放列表
 
 #EXTINF:-1 group-title="4K频道" ,凤凰卫视中文台HD
-http://192.168.2.1:6666/rtp/239.11.0.153:5140?fcc=183.223.164.65:8027
+http://quezhu888.dynv6.net:8012/rtp/239.11.0.100:5140
 #EXTINF:-1 group-title="4K频道" ,凤凰卫视资讯台HD
 http://192.168.2.1:6666/rtp/239.11.0.154:5140?fcc=183.223.164.65:8027
 #EXTINF:-1 group-title="4K频道" ,北京纪实科教
@@ -26,13 +26,13 @@ http://192.168.2.1:6666/rtp/239.10.0.92:5140?fcc=183.223.164.65:8027
 http://192.168.2.1:6666/rtp/239.10.0.93:5140?fcc=183.223.164.65:8027
 #EXTINF:-1 group-title="4K频道" catchup="default" catchup-source="http://192.168.2.1:6666/http/zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/gdws4k/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8",广东卫视
 http://192.168.2.1:6666/rtp/239.10.0.94:5140?fcc=183.223.164.65:8027
-#EXTINF:-1 group-title="4K频道" catchup="default" catchup-source="http://192.168.2.1:6666/http/zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/sichuanweishi25p/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8",四川卫视
+#EXTINF:-1 group-title="4K频道" catchup="default" catchup-source="http://192.168.2.1:6666/http/zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/sichuanweishi25p/${(b)yyyyMMddHHmmss}/${(e)yyyyMMddHHmmss}/1.m3u8", 四川卫视
 http://192.168.2.1:6666/rtp/239.11.0.43:5140?fcc=183.223.164.65:8027
 #EXTINF:-1 group-title="4K频道" ,四川卫视
 http://192.168.2.1:6666/rtp/239.11.0.86:5140?fcc=183.223.164.65:8027
 #EXTINF:-1 group-title="4K频道" ,山东卫视
 http://192.168.2.1:6666/rtp/239.11.0.91:5140?fcc=183.223.164.65:8027
-#EXTINF:-1 group-title="4K频道" ,CCTV8K(直播有问题）
+#EXTINF:-1 group-title="4K频道" ,CCTV8K（直播有问题）
 http://192.168.2.1:6666/rtp/239.10.0.134:5140?fcc=183.223.164.65:8027
 
 
